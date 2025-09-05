@@ -1,1 +1,1 @@
-# web-application-manual-testing
+# manual-testing
